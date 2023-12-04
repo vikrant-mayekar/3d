@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3d/static/css/main.4557e91d.css",
+    "main.js": "/3d/static/js/main.af022abf.js",
+    "static/media/women.png": "/3d/static/media/women.85b502f80899e0b66b0e.png",
+    "static/media/absslogo.png": "/3d/static/media/absslogo.f1f62e408c383571c1b9.png",
+    "index.html": "/3d/index.html",
+    "main.4557e91d.css.map": "/3d/static/css/main.4557e91d.css.map",
+    "main.af022abf.js.map": "/3d/static/js/main.af022abf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4557e91d.css",
+    "static/js/main.af022abf.js"
+  ]
+}
